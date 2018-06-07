@@ -3,14 +3,15 @@
 Cross platform Python 2.7 advanced port scanner, uses 7 techniques of port scanning.
 
 Utilizing 7 methods of port scanning all at once:
-CONN, SYN, FIN, X-MAS, NULL, STEALTH, ACK.
+**CONN, SYN, FIN, X-MAS, NULL, STEALTH, ACK.**
 The script also logs all positive scan results to csf-x-nsa-log.txt
 Learn from the comments in the script how each type of scan works.
 
 
-Requirements: Scapy ('pip install scapy')
-              Requests
-              
+### Requirements: 
+       1. Scapy ('pip install scapy')
+       2. Requests
+            
               
 ### Tested on: 
 
@@ -21,7 +22,7 @@ Requirements: Scapy ('pip install scapy')
     5. Ubuntu
 
 
-    Usage: python portscan.py target startPort endPort
+### Usage: python portscan.py target startPort endPort
 
 
       E.g.: python portscan.py 192.168.1.36 1 65535
