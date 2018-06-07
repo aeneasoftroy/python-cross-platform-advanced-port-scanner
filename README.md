@@ -1,4 +1,4 @@
-# CSF-X-NSA PORTSCANNER by Aeneas of Troy of EHVSN/TechKnow
+# CSF-X-NSA PORTSCANNER 
 
 Cross platform Python 2.7 advanced port scanner, uses 7 techniques of port scanning.
 
