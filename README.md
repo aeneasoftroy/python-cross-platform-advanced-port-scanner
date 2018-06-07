@@ -1,6 +1,6 @@
 # CSF-X-NSA PORTSCANNER by Aeneas of Troy of EHVSN/TechKnow
 
-Cross platform advanced port scanner, uses many techniques of port scanning.
+Cross platform Python 2.7 advanced port scanner, uses 7 techniques of port scanning.
 
 Utilizing 7 methods of port scanning all at once:
 CONN, SYN, FIN, X-MAS, NULL, STEALTH, ACK.
