@@ -15,9 +15,9 @@ Requirements: Scapy ('pip install scapy')
 Tested on Windows 7, Debian 9.4.0, Kali, ParrotOS and Ubuntu
 
 
-## Usage: python portscan.py target startPort endPort
-## E.g.: python portscan.py 192.168.1.36 1 65535
-##  Or: python portscan.py without parameters for manual input
+### Usage: python portscan.py target startPort endPort
+### E.g.: python portscan.py 192.168.1.36 1 65535
+###  Or: python portscan.py without parameters for manual input
 
 
 Note: thanks to the shebang line we can also make this run as an executable: 
