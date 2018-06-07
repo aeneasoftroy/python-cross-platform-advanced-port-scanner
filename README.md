@@ -12,12 +12,20 @@ Requirements: Scapy ('pip install scapy')
               Requests
               
               
-Tested on Windows 7, Debian 9.4.0, Kali, ParrotOS and Ubuntu
+### Tested on: 
+
+    1. Windows 7
+    2. Debian 9.4.0
+    3. Kali
+    4. ParrotOS
+    5. Ubuntu
 
 
     Usage: python portscan.py target startPort endPort
 
+
       E.g.: python portscan.py 192.168.1.36 1 65535
+      
         Or: python portscan.py without parameters for manual input
 
 
