@@ -7,6 +7,7 @@ Utilizing 7 methods of port scanning all at once:
 The script also logs all positive scan results to csf-x-nsa-log.txt
 Learn from the comments in the script how each type of scan works.
 
+![alt text](https://raw.githubusercontent.com/aeneasoftroy/python-cross-platform-csf-x-nsa-port-scanner/master/csf-x-nsa-2.jpg)
 
 ### Requirements: 
        1. Scapy ('pip install scapy')
